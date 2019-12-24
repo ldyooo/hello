@@ -7,12 +7,8 @@ public class UserController {
 		System.out.println("666666");
 		System.out.println("hhhhhhhh");
 		System.out.println("1111111111");
-		System.out.println("sssssssssssssssss");
 
-<<<<<<< HEAD
 		System.out.println("uuuuuuuuuuuuuuuu");
-=======
->>>>>>> branch 'master' of https://github.com/ldyooo/hello.git
 	}
 
 }
